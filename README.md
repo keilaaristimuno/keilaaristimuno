@@ -46,9 +46,8 @@
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="https://www.mongodb.com/"><img alt="Mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 
+<br>
   
- </p>
- 
 - **Check out my Social Media**:
 <p align="left">
 	<a href="malito:keilasol930@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
