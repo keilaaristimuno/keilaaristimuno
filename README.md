@@ -15,9 +15,6 @@
 - 🔭 I’m currently working on my side projects
 - 🌱 I’m currently learning software architecture
 - 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about Java
-- 📫 How to reach me: Contact part
-- ⚡ Fun fact: I never thought I would become a python programmer!
 
 <br>
 
